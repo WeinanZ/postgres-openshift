@@ -5,4 +5,5 @@ resources:
   - postgres-pvc.yaml
   - pgadmin-deployment.yaml
   - pgadmin-pvc.yaml
+  - pgadmin-service.yaml
   
