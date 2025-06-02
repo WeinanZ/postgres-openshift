@@ -6,4 +6,5 @@ resources:
   - pgadmin-deployment.yaml
   - pgadmin-pvc.yaml
   - pgadmin-service.yaml
+  - pgadmin-route.yaml
   
