@@ -27,7 +27,7 @@ spec:
           value: adminpass
         volumeMounts:
         - name: postgres-storage
-          mountPath: /var/lib/postgresql/data
+          mountPath: /var/lib/postgresql/postgresqldata
       volumes:
       - name: postgres-storage
         persistentVolumeClaim:
